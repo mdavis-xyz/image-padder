@@ -31,6 +31,8 @@ Run `python3 ratio.py example.jpg`, then the output `example-padded.jpg` looks l
 
 ![example-padded.jpg](example-padded.jpg)
 
+(Normally the padding is white, to save ink. I modified the script when producing this example, to make it black, so it's clearer in the GitHub Readme.)
+
 To change the name of the output file, modify the `newFname` function.
 
 
